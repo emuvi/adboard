@@ -1,0 +1,17 @@
+{
+  "name": "adboard",
+  "version": "0.1.0",
+  "description": "AdBoard - A desk where people can write down notes, schemas and ideas, work together and share thoughts.",
+  "main": "./build/main.js",
+  "types": "./types/main.d.ts",
+  "scripts": {
+    "start": "bash -v test.sh"
+  },
+  "keywords": [],
+  "author": "Éverton M. Vieira",
+  "license": "LGPL-3.0-only",
+  "dependencies": {
+    "qinpel-cps": "file:../qinpel-cps",
+    "qinpel-res": "file:../qinpel-res"
+  }
+}
