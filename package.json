@@ -1,7 +1,7 @@
 {
   "name": "adboard",
   "version": "0.1.0",
-  "description": "AdBoard - A desk where people can write down notes, schemas and ideas, work together and share thoughts. This is one part of the AdMister applications.",
+  "description": "AdBoard - A desk where people can write down notes, schemas and ideas, work together and share thoughts. This is one app of the AdMister applications.",
   "main": "./build/main.js",
   "types": "./types/main.d.ts",
   "scripts": {
