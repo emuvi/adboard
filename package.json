@@ -1,12 +1,14 @@
 {
   "name": "adboard",
-  "version": "0.1.0",
+  "displayName": "AdBoard",
   "description": "AdBoard is a Qinpel user application where people can write down notes, schemas and ideas, work together and share thoughts. This app is part of the AdMister applications.",
-  "main": "./build/main.js",
-  "types": "./types/main.d.ts",
-  "keywords": [],
+  "keywords": [], 
+  "repository": "https://github.com/emuvi/adboard",
   "author": "Éverton M. Vieira",
   "license": "LGPL-3.0-only",
+  "version": "0.1.0",
+  "main": "./build/main.js",
+  "types": "./types/main.d.ts",
   "dependencies": {
     "qinpel-cps": "file:../qinpel-cps",
     "qinpel-res": "file:../qinpel-res"
