@@ -11,4 +11,4 @@ class AdBoard extends QinColumn {
 
 }
 
-new AdBoard().putAsBody();
+new AdBoard().style.putAsBody();
